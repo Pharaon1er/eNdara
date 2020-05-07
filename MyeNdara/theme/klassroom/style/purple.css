@@ -1,0 +1,89 @@
+/* Site blue color
+----------------------*/
+
+.klassroom-purple #nav-main,
+.klassroom-purple .announcement,
+.klassroom-purple .block .minicalendar th,
+.klassroom-purple .clients-logo,
+.klassroom-purple input.form-submit,
+.klassroom-purple input#id_submitbutton,
+.klassroom-purple input#id_submitbutton2,
+.klassroom-purple .path-admin .buttons input[type="submit"],
+.klassroom-purple td.submit input,
+.klassroom-purple .btn-primary,
+.klassroom-purple .btn-default,
+body#page-course-index-category.klassroom-purple .categorypicker,
+body.pagelayout-coursecategory.klassroom-purple #coursesearch,
+.klassroom-purple .moodle-actionmenu[data-enhanced].show .menu a:hover,
+.klassroom-purple .messaging-area-container .messaging-area .contacts-area .contacts .contact.selected,
+.klassroom-purple .messaging-area-container .messaging-area .contacts-area .contacts .contact,
+body#page-admin-theme-index.klassroom-purple .well:first-child,
+.klassroom-purple .initialbar .letter:hover,
+.klassroom-purple .initialbar .letter.active {
+	background-color: #454591;
+}
+
+.klassroom-purple input.form-submit,
+.klassroom-purple input#id_submitbutton,
+.klassroom-purple input#id_submitbutton2,
+.klassroom-purple .path-admin .buttons input[type="submit"],
+.klassroom-purple td.submit input,
+.klassroom-purple .btn-primary,
+.klassroom-purple .btn-default {
+	border-color: #454591;
+}
+
+.klassroom-purple a,
+.klassroom-purple .initialbar .letter,
+.klassroom-purple .main-menu li li:hover>a,
+.klassroom-purple .main-menu li li a:focus {
+	color: #454591;
+}
+
+.klassroom-purple .messaging-area-container .messaging-area .contacts-area .tabs .tab.selected {
+	border-top-color: #454591;
+}
+
+
+/* Site yellow color
+-----------------------*/
+
+.klassroom-purple .navbar .brand,
+.klassroom-purple #colourswitcher label.slideblocklabel,
+.klassroom-purple .block-section label.slideblocklabel,
+.klassroom-purple .announcement .con-buttons .btn-lg,
+.klassroom-purple .events a.btn,
+.klassroom-purple .projects .cus:nth-child(3),
+.klassroom-purple .course_category_tree .category>.info>.categoryname:before,
+.klassroom-purple form#coursesearch input[type="submit"],
+.klassroom-purple form#coursesearch2 input[type="submit"] {
+	background-color: #f9690e;
+}
+
+.klassroom-purple .announcement .con-buttons .btn-lg,
+.klassroom-purple form#coursesearch input[type="submit"],
+.klassroom-purple form#coursesearch2 input[type="submit"] {
+	border-color: #f9690e;
+}
+
+.klassroom-purple .course_category_tree .courses .coursebox {
+	border-left-color: #f9690e !important;
+}
+
+body#page-site-index.klassroom-purple .forumaddnew div:before,
+body#page-site-index.klassroom-purple .subscribelink:before,
+.klassroom-purple .forumpost .author .content:before,
+.klassroom-purple #page-footer ul li li a:hover,
+.klassroom-purple #page-footer ul li li a:active,
+.klassroom-purple #page-footer ul li li a:focus,
+.klassroom-purple #page-footer ul li li a:hover:before,
+body.dir-rtl.klassroom-purple #page-footer ul li li a:hover:after,
+.klassroom-purple a:hover,
+.klassroom-purple a:focus,
+.klassroom-purple a:active,
+body#page-site-index.klassroom-purple .subscribelink a:hover,
+.klassroom-purple .stage .captions h1 span,
+#page-site-index.klassroom-purple .forumaddnew input[type="submit"]:hover,
+#page-site-index.klassroom-purple .subscribelink a:hover {
+	color: #f9690e;
+}
